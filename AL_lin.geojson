@@ -7,6 +7,6 @@
 { "type": "Feature", "properties": { "STORMNUM": 9.0, "STORMTYPE": "TS", "SS": 0.0 }, "geometry": { "type": "LineString", "coordinates": [ [ -71.6, 14.8 ], [ -72.8, 14.7 ], [ -74.5, 14.4 ], [ -76.2, 14.4 ], [ -77.2, 14.6 ], [ -78.3, 14.6 ], [ -79.4, 15.0 ], [ -80.0, 15.7 ], [ -80.9, 16.9 ], [ -81.7, 17.7 ] ] } },
 { "type": "Feature", "properties": { "STORMNUM": 9.0, "STORMTYPE": "HU", "SS": 1.0 }, "geometry": { "type": "LineString", "coordinates": [ [ -81.7, 17.7 ], [ -82.4, 18.7 ], [ -83.0, 19.7 ], [ -83.3, 20.8 ] ] } },
 { "type": "Feature", "properties": { "STORMNUM": 9.0, "STORMTYPE": "HU", "SS": 2.0 }, "geometry": { "type": "LineString", "coordinates": [ [ -83.3, 20.8 ], [ -83.6, 21.8 ] ] } },
-{ "type": "Feature", "properties": { "STORMNUM": 9.0, "STORMTYPE": "HU", "SS": 2.0 }, "geometry": { "type": "LineString", "coordinates": [ [ -83.6, 21.8 ], [ -83.6, 22.6 ] ] } }
+{ "type": "Feature", "properties": { "STORMNUM": 9.0, "STORMTYPE": "HU", "SS": 2.0 }, "geometry": { "type": "LineString", "coordinates": [ [ -83.6, 21.8 ], [ -83.6, 22.6 ], [ -83.3, 23.5 ] ] } }
 ]
 }
