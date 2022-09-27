@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "STORMNAME": "Ian", "STORMTYPE": "HU", "ADVDATE": "500 PM EDT Tue Sep 27 2022", "ADVISNUM": "19", "STORMNUM": 9.0, "FCSTPRD": 120.0, "BASIN": "AL" }, "geometry": null }
+{ "type": "Feature", "properties": { "STORMNAME": "Ian", "STORMTYPE": "HU", "ADVDATE": "200 PM EDT Tue Sep 27 2022", "ADVISNUM": "18A", "STORMNUM": 9.0, "FCSTPRD": 120.0, "BASIN": "AL" }, "geometry": null }
 ]
 }
