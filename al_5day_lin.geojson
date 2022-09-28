@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "STORMNAME": "Ian", "STORMTYPE": "HU", "ADVDATE": "1100 AM EDT Wed Sep 28 2022", "ADVISNUM": "24", "STORMNUM": 9.0, "FCSTPRD": 120.0, "BASIN": "AL" }, "geometry": { "type": "LineString", "coordinates": [ [ -82.5, 26.3 ], [ -82.4, 26.7 ], [ -81.7, 27.7 ], [ -81.1, 28.7 ], [ -80.7, 29.8 ], [ -80.8, 31.6 ], [ -81.4, 33.6 ], [ -82.1, 36.1 ] ] } }
+{ "type": "Feature", "properties": { "STORMNAME": "Ian", "STORMTYPE": "HU", "ADVDATE": "500 PM EDT Wed Sep 28 2022", "ADVISNUM": "25", "STORMNUM": 9.0, "FCSTPRD": 120.0, "BASIN": "AL" }, "geometry": { "type": "LineString", "coordinates": [ [ -82.0, 26.9 ], [ -81.6, 27.8 ], [ -81.0, 28.8 ], [ -80.6, 30.0 ], [ -80.6, 31.9 ], [ -81.0, 34.0 ], [ -81.5, 36.0 ] ] } }
 ]
 }
