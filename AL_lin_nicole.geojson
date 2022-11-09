@@ -3,6 +3,6 @@
 "features": [
 { "type": "Feature", "properties": { "STORMNUM": 17.0, "STORMTYPE": "DB", "SS": 0.0 }, "geometry": { "type": "LineString", "coordinates": [ [ -70.3, 16.2 ], [ -69.5, 16.4 ], [ -68.8, 16.7 ], [ -67.5, 18.0 ], [ -67.0, 19.3 ], [ -66.8, 20.6 ], [ -66.7, 22.4 ], [ -67.5, 24.0 ], [ -68.2, 25.2 ] ] } },
 { "type": "Feature", "properties": { "STORMNUM": 17.0, "STORMTYPE": "SS", "SS": 0.0 }, "geometry": { "type": "LineString", "coordinates": [ [ -68.2, 25.2 ], [ -69.1, 25.9 ], [ -70.2, 26.4 ], [ -70.8, 26.8 ], [ -71.3, 27.4 ], [ -72.0, 27.7 ], [ -73.2, 27.6 ] ] } },
-{ "type": "Feature", "properties": { "STORMNUM": 17.0, "STORMTYPE": "SS", "SS": 0.0 }, "geometry": { "type": "LineString", "coordinates": [ [ -73.2, 27.6 ], [ -74.3, 27.2 ], [ -75.4, 26.7 ] ] } }
+{ "type": "Feature", "properties": { "STORMNUM": 17.0, "STORMTYPE": "SS", "SS": 0.0 }, "geometry": { "type": "LineString", "coordinates": [ [ -73.2, 27.6 ], [ -74.3, 27.2 ], [ -75.4, 26.7 ], [ -76.1, 26.6 ] ] } }
 ]
 }
