@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "STORMNAME": "Nicole", "STORMTYPE": "TS", "ADVDATE": "700 PM EST Thu Nov 10 2022", "ADVISNUM": "15A", "STORMNUM": 17.0, "FCSTPRD": 120.0, "BASIN": "AL" }, "geometry": { "type": "LineString", "coordinates": [ [ -83.8, 30.0 ], [ -84.2, 31.2 ], [ -82.6, 34.9 ] ] } }
+{ "type": "Feature", "properties": { "STORMNAME": "Nicole", "STORMTYPE": "TD", "ADVDATE": "1000 PM EST Thu Nov 10 2022", "ADVISNUM": "16", "STORMNUM": 17.0, "FCSTPRD": 120.0, "BASIN": "AL" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.3, 30.7 ], [ -84.0, 33.0 ], [ -81.0, 37.0 ] ] } }
 ]
 }
